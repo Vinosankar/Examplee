@@ -24,8 +24,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>Commonfunction.commonfunction</mainClass>
-
+							<mainClass>examole.sample</mainClass>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
 						</manifest>
